@@ -18,3 +18,5 @@ minutes.
 
 Edit the relevant `.html` file to match the current in-app copy, commit, and push to `main` —
 GitHub Pages redeploys automatically on every push.
+
+<!-- trigger pages build -->
